@@ -2,17 +2,17 @@ This project belongs to Jessica Hwang for the purpose of completing course CS500
 The course was taught by Professor Molly Domino in the Spring Semester 2024. 
 
 This project was self-designed by Jessica Hwang. The purpose is to demonstrate understanding of:
-	• Typical object-oriented concepts such as information hiding, encapsulation and various forms of polymorphism. 
-	• The use of inheritance and composition as dual techniques for software reuse. 
-	• Gain a deeper understanding of object-oriented design using the use of graphical design notations such as UML and object-oriented design patterns.
-	• Examine the relationship between algorithms and data structures, as well as basic techniques for analyzing algorithm complexity.
-	• Unit testing.
+	• Typical object-oriented concepts such as information hiding, encapsulation and various forms of polymorphism 
+	• The use of inheritance and composition as dual techniques for software reuse 
+	• Gain a deeper understanding of object-oriented design using the use of graphical design notations such as UML and object-oriented design patterns 
+	• Examine the relationship between algorithms and data structures, as well as basic techniques for analyzing algorithm complexity 
+	• Unit testing 
 
-STATEMENT OF INTEGRITY
+STATEMENT OF INTEGRITY: 
 No AI was used to write any part of this project, as it was designed and coded by me in April 2024. 
-I did not rely on any existing work on the Internet to design this project.
+I did not rely on any existing project on the Internet for the code or design. Any similarities to existing work in the depths of the Internet are coincidences.
 
-PROJECT DETAILS
+PROJECT DETAILS: 
 The main application is an application that analyzes passenger data and decides how to seat passengers on a set of seats in a plane. To model the seats, I referenced a Boeing 737-8 with 146 total passenger seats (excluding seats for flight staff). 
 
 The application:
