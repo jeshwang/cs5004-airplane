@@ -1,0 +1,8 @@
+id,firstName,lastName,boardingGroup,seatPositionChoice,seatPositionUtil,handleExitRow
+1,Timothy,Tulip,FIRST,AISLE,3,0
+4,Shimothy,Shulip,FIRST,AISLE,3,2
+..,,,
+2,Blerg,  .,,,
+137,Mercedes,Johnson,BIRD,WINDOW,1,1
+138,Nigel,Bean,ECONOMY,BIRD,1,1
+
